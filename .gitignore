@@ -1,0 +1,9 @@
+node_modules/
+.expo/
+npm-debug.*
+config.json
+.vscode
+.ideabuilds
+builds/
+data/
+plugins/
